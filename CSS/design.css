@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.sectionOne{
+    margin: 0 10%;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    
+}
+.Class
+
+
+.sectionTwo{
+text-align: center;
+margin: 10px;
+border-left: 2rem;
+display: flex;
+text-align: center;
+
+}
+.classC,h1, p{
+    padding: 20px;
+
+}
+.classC, button{
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.ClassC{
+    width: 100%;
+    height: 100;
+    border-radius: 2%;
+    border: 3px solid black;
+    padding: 5%;
+    box-shadow: inset 10px;
+   
+    
+}
+body{
+    background-color: burlywood;
+}
+.ClassA{
+    float: left;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin: 3rem;
+    background-color: white;
+}.ClassB{
+    float: left;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin: 3rem;
+    background-color: white;
+}
+.ClassF{
+    float: left;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin: 3rem;
+    background-color: white;
+}
